@@ -26,7 +26,7 @@
 
 Thank you for visiting my profile. I am a **Software Development Engineer in Test (SDET)** with hands-on experience in building and maintaining test automation frameworks for UI and API layers.
 
-I currently work on end-to-end automation for dashboard and billing systems using **Playwright** and **TypeScript**. I am continuously learning and expanding my skill set into **DevOps** practices including Docker, Kubernetes, and CI/CD pipelines, with the aim of contributing more meaningfully to the software delivery lifecycle.
+I currently work on end-to-end automation for dashboard and billing systems using **Playwright** and **TypeScript**.
 
 I value clean, maintainable code, reliable test coverage, and collaborative teamwork. I am always open to learning, growing, and connecting with like-minded professionals in the industry.
 
