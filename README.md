@@ -1,6 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Amaan+Hashmi;Software+Development+Engineer+in+Test;Playwright+%7C+TypeScript+%7C+Selenium;Building+Automation+That+Actually+Works)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Amaan+Hashmi;Software+Development+Engineer+in+Test;Playwright+%7C+TypeScript+%7C+Selenium+%7C+Java;Passionate+about+Quality+%26+Test+Automation)](https://git.io/typing-svg)
+
+<br/>
+
+> *"Quality is not an act, it is a habit."* — Aristotle
+
+<br/>
 
 <p>
   <a href="https://linkedin.com/in/mohammed-amaan-hashmi" target="_blank">
@@ -17,6 +23,12 @@
 ---
 
 ## 🧑‍💻 About Me
+
+Thank you for visiting my profile. I am a **Software Development Engineer in Test (SDET)** with hands-on experience in building and maintaining test automation frameworks for UI and API layers.
+
+I currently work on end-to-end automation for dashboard and billing systems using **Playwright** and **TypeScript**. I am continuously learning and expanding my skill set into **DevOps** practices including Docker, Kubernetes, and CI/CD pipelines, with the aim of contributing more meaningfully to the software delivery lifecycle.
+
+I value clean, maintainable code, reliable test coverage, and collaborative teamwork. I am always open to learning, growing, and connecting with like-minded professionals in the industry.
 
 ```ts
 const amaan = {
