@@ -79,20 +79,6 @@ const amaan = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAmaanHashmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAmaanHashmi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAmaanHashmi&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
